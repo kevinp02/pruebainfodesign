@@ -1,0 +1,15 @@
+D:\Developer\Otros\PruebaInfodesign\PruebaInfodesign.Application\bin\Debug\net9.0\PruebaInfodesign.Application.deps.json
+D:\Developer\Otros\PruebaInfodesign\PruebaInfodesign.Application\bin\Debug\net9.0\PruebaInfodesign.Application.dll
+D:\Developer\Otros\PruebaInfodesign\PruebaInfodesign.Application\bin\Debug\net9.0\PruebaInfodesign.Application.pdb
+D:\Developer\Otros\PruebaInfodesign\PruebaInfodesign.Application\bin\Debug\net9.0\PruebaInfodesign.Domain.dll
+D:\Developer\Otros\PruebaInfodesign\PruebaInfodesign.Application\bin\Debug\net9.0\PruebaInfodesign.Domain.pdb
+D:\Developer\Otros\PruebaInfodesign\PruebaInfodesign.Application\obj\Debug\net9.0\PruebaInfodesign.Application.csproj.AssemblyReference.cache
+D:\Developer\Otros\PruebaInfodesign\PruebaInfodesign.Application\obj\Debug\net9.0\PruebaInfodesign.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\Otros\PruebaInfodesign\PruebaInfodesign.Application\obj\Debug\net9.0\PruebaInfodesign.Application.AssemblyInfoInputs.cache
+D:\Developer\Otros\PruebaInfodesign\PruebaInfodesign.Application\obj\Debug\net9.0\PruebaInfodesign.Application.AssemblyInfo.cs
+D:\Developer\Otros\PruebaInfodesign\PruebaInfodesign.Application\obj\Debug\net9.0\PruebaInfodesign.Application.csproj.CoreCompileInputs.cache
+D:\Developer\Otros\PruebaInfodesign\PruebaInfodesign.Application\obj\Debug\net9.0\PruebaIn.1BEA34BC.Up2Date
+D:\Developer\Otros\PruebaInfodesign\PruebaInfodesign.Application\obj\Debug\net9.0\PruebaInfodesign.Application.dll
+D:\Developer\Otros\PruebaInfodesign\PruebaInfodesign.Application\obj\Debug\net9.0\refint\PruebaInfodesign.Application.dll
+D:\Developer\Otros\PruebaInfodesign\PruebaInfodesign.Application\obj\Debug\net9.0\PruebaInfodesign.Application.pdb
+D:\Developer\Otros\PruebaInfodesign\PruebaInfodesign.Application\obj\Debug\net9.0\ref\PruebaInfodesign.Application.dll
